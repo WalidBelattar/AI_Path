@@ -1,0 +1,9 @@
+linux comends
+Sudo dnf update
+pwd print working directory 
+ls to know what in your folder
+ls -a
+cd to change directory
+touch to create a file
+mkdir to create a folder
+mv + the file name + the old name to change file name
